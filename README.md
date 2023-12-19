@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gokhanaravi.com](https://gokhanaravi.com)
 
-- 💬 Ask me about **Ask me about C# and MSSQL**
+- 💬 Ask me about **C# and MSSQL**
 
 - 📫 How to reach me **gokhanaravi@gmail.com**
 
